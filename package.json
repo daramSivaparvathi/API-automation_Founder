@@ -1,5 +1,13 @@
 {
   "devDependencies": {
-    "cypress": "^13.7.1"
+    "chai": "^5.1.0",
+    "cypress": "^13.7.2",
+    "faker": "^6.6.6"
+  },
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-iframe": "^1.0.1",
+    "open": "^10.1.0"
   }
 }

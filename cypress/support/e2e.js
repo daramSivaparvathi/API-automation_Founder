@@ -15,7 +15,9 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands'
-
+//import '@sinonjs/fake-timers'
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
 // require('cypress-xpath')
+//const faker = require('faker');
+
